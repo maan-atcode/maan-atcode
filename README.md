@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learner (DSA, Web Dev)
 ----------------------
 
-Currently in 2nd Sem of Engineering (CSE). Tinkering my knowledge about the coding life and gaining skills as going.
+BS@IIT M . Tinkering my knowledge about the coding life and gaining skills as going.
 
 * 🌍  I'm based in Guwahati,Assam
 * ✉️  You can contact me at [manabdr2003@gmail.com](mailto:manabdr2003@gmail.com)
-* 🧠  I'm learning Web Dev, DSA
+* 🧠  I'm learning Web2/3
 * 🤝  I'm open to collaborating on learning together, hackathons and projects.
 * ⚡  Life goes on and on ...
 
